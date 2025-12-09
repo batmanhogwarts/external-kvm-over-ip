@@ -1,5 +1,3 @@
-# external-kvm-over-ip
-
 # External KVM-over-IP (Design Phase)
 
 This repository will contain configuration files, notes, and scripts
