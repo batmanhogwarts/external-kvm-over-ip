@@ -1,10 +1,11 @@
-# PCB Overview
+# PCB Status
 
-Initial prototype uses off-the-shelf boards.
+This prototype does not use a custom PCB.
 
-Future revisions may include:
-- CM4 carrier board
-- HDMI capture IC
-- USB hub integration
+Instead, it is built from:
+- Raspberry Pi Compute Module 4 IO board (or equivalent)
+- External HDMI capture hardware
+- USB gadget mode via CM4 USB OTG
 
-No custom PCB is required for the first prototype.
+A custom carrier board is planned as a future revision after prototype validation.
+See hardware/architecture.md for details.
