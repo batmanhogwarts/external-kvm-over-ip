@@ -21,7 +21,6 @@ All prices are estimates as of December 2025 and sourced from US retailers.
 | Item | Description | Qty | Unit Price | Link |
 |----|----|----|----|----|
 | USB-C Power Supply | 5V 3A power | 1 | $10 | https://www.adafruit.com/product/4298 |
-| Ethernet Cable | Network connection | 1 | $3 | https://www.amazon.com/dp/B00N2VILDM |
 
 ## Misc
 | Item | Description | Qty | Unit Price | Link |
