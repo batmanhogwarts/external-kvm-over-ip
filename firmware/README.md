@@ -1,1 +1,13 @@
+# Firmware Overview
 
+The firmware stack runs on embedded Linux and handles:
+
+- USB HID gadget emulation
+- HDMI video capture
+- Network streaming
+- Web UI
+
+## Components
+- Linux USB gadget framework for keyboard/mouse
+- v4l2 for HDMI capture
+- MJPEG streaming over HTTP (initial prototype)
